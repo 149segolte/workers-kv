@@ -12,6 +12,7 @@
 	},
 	"upload_source_maps": true,
 	"compatibility_flags": ["nodejs_compat"],
+	"preview_urls": false,
 	"secrets": {
 		"required": ["POLICY_AUD", "TEAM_DOMAIN"],
 	},
